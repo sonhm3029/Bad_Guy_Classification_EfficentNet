@@ -162,3 +162,7 @@ cython_debug/
 # Custom ignore
 
 /data
+!spec/*.h5
+*.h5
+!spec/*.pth
+*.pth
